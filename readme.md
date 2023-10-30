@@ -65,10 +65,10 @@ For any questions or inquiries, please contact any of the contributer.
 
 # Contributors
 
-- Pukhraj Singh (pukharaj.singh@nagarro.com)
-- Kartik Mahajan (kartik.mahajan@nagarro.com)
-- Anshul Dhawan (anshul.dhawan@nagarro.com)
-- Nikhil (nikhil02@nagarro.com)
+- Pukhraj Singh
+- Kartik Mahajan
+- Anshul Dhawan
+- Nikhil
 
 ## Error You might find
 
