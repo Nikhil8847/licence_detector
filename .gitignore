@@ -1,0 +1,4 @@
+*.db
+/__pycache__
+/python_venv
+data.xlsx
